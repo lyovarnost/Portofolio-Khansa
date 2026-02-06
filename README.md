@@ -1,44 +1,51 @@
-# 👋 Halo, Saya Khansa Belva
+# 🌐 Portofolio Khansa Adonia Belva
 
-🎓 Pelajar  
-💻 Tertarik pada dunia pemrograman dan teknologi  
+Halo! 👋  
+Selamat datang di repository portofolio saya.
 
----
+Saya adalah seorang **pelajar** yang tertarik dengan dunia **pemrograman**, khususnya **Web Development** dan **Python**.  
+Saya senang belajar hal baru, membuat project sederhana, dan mengembangkan kemampuan secara bertahap.
 
-## 🧑‍💻 Tentang Saya
-Saya adalah pelajar yang sedang belajar pemrograman, khususnya
-HTML, CSS, dan Python. Saya suka membuat project sederhana
-untuk melatih kemampuan dan menambah pengalaman.
-
----
-
-## 🔧 Skill
-- HTML
-- CSS
-- Python
-- GitHub
+Selain teknologi, saya juga memiliki minat di bidang **kesenian** dan telah meraih beberapa prestasi yang membantu saya
+mengasah kreativitas. Kombinasi antara logika dan seni menjadi kekuatan saya dalam berkarya.
 
 ---
 
-## 📂 Project
+## ✨ Tentang Saya
+- 🎓 Status: Pelajar  
+- 💻 Minat: Web Development & Python  
+- 🎨 Ketertarikan: Seni & kreativitas  
+- 🌱 Sedang belajar: HTML, CSS, Python, GitHub  
+
+---
+
+## 🛠️ Skill
+- **HTML**
+- **CSS**
+- **Python**
+- **Git & GitHub**
+
+---
+
+## 📁 Project
+Beberapa project sederhana yang pernah saya buat:
+
 - 🌐 **Website Portofolio**  
-  Website portofolio pribadi menggunakan HTML dan CSS.
+  Website portofolio pribadi menggunakan HTML dan CSS dengan tampilan modern.
 
-- 🅿️ **Program Parkir Python**  
-  Program sederhana untuk menghitung biaya parkir menggunakan Python.
+- 🚗 **Program Parkir Python**  
+  Program parkir sederhana berbasis Python untuk latihan logika dan perhitungan.
 
 ---
 
 ## 📬 Kontak
-- 📧 Email: **khansabelva185@gmail.com**  
-- 💻 GitHub: https://github.com/username  
+Jika ingin berdiskusi atau berkolaborasi, silakan hubungi saya:
+
+- 📧 Email: **khansabelva185@gmail.com**
+- 🐙 GitHub: **https://github.com/username**
 
 ---
 
-## 🚀 Tujuan
-Mengembangkan kemampuan coding dan membangun portofolio
-untuk keperluan sekolah, kuliah, dan karier di bidang teknologi.
+✨ Terima kasih sudah mengunjungi repository ini.  
+Saya terbuka untuk belajar, berkembang, dan menerima masukan!
 
----
-
-✨ *Terima kasih sudah mengunjungi repository saya!*
